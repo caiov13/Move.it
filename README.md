@@ -1,6 +1,4 @@
-# Move.it
-
-Move.it uma aplicação no estilo pomodoro com desafios e sistema de niveis. 
+<h1 align="center"> Move.it </h1>
 
 ## 📷 Imagens do Projeto:
 
